@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-20T11:07:02.339Z",
+  "updatedAt": "2026-10-20T12:10:32.437717+00:00",
   "documents": [
     {
       "tableNumber": 52,
@@ -10,7 +10,9 @@
       "date": "2026-10-18",
       "title": "Alahady faha-20 manaraka ny Trinite",
       "year": 2026,
-      "sourceHash": "0a14c9034c870ec6a75368d6f0211905ff3d131176b175c0506737ce2390278f"
+      "sourceHash": "0a14c9034c870ec6a75368d6f0211905ff3d131176b175c0506737ce2390278f",
+      "facebookSchema": 1,
+      "facebookHash": "dd9c6dbac408dc761d233864dff464ac375b13acd38a912f57842d0e2937fd94"
     },
     {
       "tableNumber": 51,
