@@ -1,70 +1,81 @@
 {
-  "schema": 1,
-  "updatedAt": "2026-10-25T05:55:10.630031+00:00",
-  "documents": [
+  "documents" : [
     {
-      "tableNumber": 53,
-      "cycle": 2,
-      "filename": "alah21manartrinite_2.txt",
-      "id": "2026-10-25-alah21manartrinite-2",
-      "date": "2026-10-25",
-      "title": "Alahady faha-21 manaraka ny Trinite",
-      "year": 2026,
-      "sourceHash": "11dbbc047e2c396d3958ce3c1cc568f25d59408c0e0fa4b9283a6c7785cb3bab",
-      "facebookSchema": 1,
-      "facebookHash": "3682b0e0632a5bfa91911543711e950ac6e96cea2c102de196e59620677f463e"
+      "cycle" : 2,
+      "date" : "2026-11-08",
+      "facebookHash" : "0e98e0e1b043d4ace3288bd2f221fdf7b9a6836ee6dd758d391c2929e28f6288",
+      "facebookSchema" : 1,
+      "filename" : "fetyfilazantsara_2.txt",
+      "id" : "2026-11-08-fetyfilazantsara-2",
+      "sourceHash" : "dc4893f0e2588de406d31bbce249d452638aa1a7c20078a7a8d02ca6f09c5b37",
+      "tableNumber" : 66,
+      "title" : "FETIN'NY FILAZANTSARA"
     },
     {
-      "tableNumber": 52,
-      "cycle": 2,
-      "filename": "alah20manartrinite_2.txt",
-      "id": "2026-10-18-alah20manartrinite-2",
-      "date": "2026-10-18",
-      "title": "Alahady faha-20 manaraka ny Trinite",
-      "year": 2026,
-      "sourceHash": "0a14c9034c870ec6a75368d6f0211905ff3d131176b175c0506737ce2390278f",
-      "facebookSchema": 1,
-      "facebookHash": "dd9c6dbac408dc761d233864dff464ac375b13acd38a912f57842d0e2937fd94"
+      "cycle" : 2,
+      "date" : "2026-10-25",
+      "facebookHash" : "3682b0e0632a5bfa91911543711e950ac6e96cea2c102de196e59620677f463e",
+      "facebookSchema" : 1,
+      "filename" : "alah21manartrinite_2.txt",
+      "id" : "2026-10-25-alah21manartrinite-2",
+      "sourceHash" : "11dbbc047e2c396d3958ce3c1cc568f25d59408c0e0fa4b9283a6c7785cb3bab",
+      "tableNumber" : 53,
+      "title" : "Alahady faha-21 manaraka ny Trinite",
+      "year" : 2026
     },
     {
-      "tableNumber": 51,
-      "cycle": 2,
-      "filename": "alah19manartrinite_2.txt",
-      "id": "2026-10-11-alah19manartrinite-2",
-      "date": "2026-10-11",
-      "title": "Alahady faha-19 manaraka ny Trinite",
-      "year": 2026,
-      "sourceHash": "3faa086ba838e23cbbc32fa8a61708e142c8ab16303bdd490a2fb8fdf91292c9"
+      "cycle" : 2,
+      "date" : "2026-10-18",
+      "facebookHash" : "dd9c6dbac408dc761d233864dff464ac375b13acd38a912f57842d0e2937fd94",
+      "facebookSchema" : 1,
+      "filename" : "alah20manartrinite_2.txt",
+      "id" : "2026-10-18-alah20manartrinite-2",
+      "sourceHash" : "0a14c9034c870ec6a75368d6f0211905ff3d131176b175c0506737ce2390278f",
+      "tableNumber" : 52,
+      "title" : "Alahady faha-20 manaraka ny Trinite",
+      "year" : 2026
     },
     {
-      "tableNumber": 50,
-      "cycle": 2,
-      "filename": "alah18manartrinite_2.txt",
-      "id": "2026-10-04-alah18manartrinite-2",
-      "date": "2026-10-04",
-      "title": "Alahady faha-18 manaraka ny Trinite",
-      "year": 2026,
-      "sourceHash": "63eb87f31a97822a1530b993194d548650ac6d0fb3d25435c0f69119fd6acb0c"
+      "cycle" : 2,
+      "date" : "2026-10-11",
+      "filename" : "alah19manartrinite_2.txt",
+      "id" : "2026-10-11-alah19manartrinite-2",
+      "sourceHash" : "3faa086ba838e23cbbc32fa8a61708e142c8ab16303bdd490a2fb8fdf91292c9",
+      "tableNumber" : 51,
+      "title" : "Alahady faha-19 manaraka ny Trinite",
+      "year" : 2026
     },
     {
-      "tableNumber": 49,
-      "cycle": 2,
-      "filename": "alah17manartrinite_2.txt",
-      "id": "2026-09-27-alah17manartrinite-2",
-      "date": "2026-09-27",
-      "title": "Alahady faha-17 manaraka ny Trinite",
-      "year": 2026,
-      "sourceHash": "66a0aed7f87be0e702ca1fdd457aa9862384db85235bd456d65b6f3baa9e36c7"
+      "cycle" : 2,
+      "date" : "2026-10-04",
+      "filename" : "alah18manartrinite_2.txt",
+      "id" : "2026-10-04-alah18manartrinite-2",
+      "sourceHash" : "63eb87f31a97822a1530b993194d548650ac6d0fb3d25435c0f69119fd6acb0c",
+      "tableNumber" : 50,
+      "title" : "Alahady faha-18 manaraka ny Trinite",
+      "year" : 2026
     },
     {
-      "tableNumber": 48,
-      "cycle": 2,
-      "filename": "alah16manartrinite_2.txt",
-      "id": "2026-09-20-alah16manartrinite-2",
-      "date": "2026-09-20",
-      "title": "Alahady faha-16 manaraka ny Trinite",
-      "year": 2026,
-      "sourceHash": "9debaee0e3eb6b4190912e382d83c1a2fb8bccd989481b740e7c4f7c3615b9df"
+      "cycle" : 2,
+      "date" : "2026-09-27",
+      "filename" : "alah17manartrinite_2.txt",
+      "id" : "2026-09-27-alah17manartrinite-2",
+      "sourceHash" : "66a0aed7f87be0e702ca1fdd457aa9862384db85235bd456d65b6f3baa9e36c7",
+      "tableNumber" : 49,
+      "title" : "Alahady faha-17 manaraka ny Trinite",
+      "year" : 2026
+    },
+    {
+      "cycle" : 2,
+      "date" : "2026-09-20",
+      "filename" : "alah16manartrinite_2.txt",
+      "id" : "2026-09-20-alah16manartrinite-2",
+      "sourceHash" : "9debaee0e3eb6b4190912e382d83c1a2fb8bccd989481b740e7c4f7c3615b9df",
+      "tableNumber" : 48,
+      "title" : "Alahady faha-16 manaraka ny Trinite",
+      "year" : 2026
     }
-  ]
+  ],
+  "schema" : 1,
+  "updatedAt" : "2026-10-31T16:34:44Z"
 }
