@@ -13,6 +13,17 @@
     },
     {
       "cycle" : 2,
+      "date" : "2026-11-08",
+      "facebookHash" : "35965b4ea8791266a7ef62f421330d1ab898150163db0c3a93f680dac6a550f7",
+      "facebookSchema" : 1,
+      "filename" : "alah23manartrinite_2.txt",
+      "id" : "2026-11-08-alah23manartrinite-2",
+      "sourceHash" : "a7fa619681860865351983f12ad1cc3c1fa3b82398f6a55a6db651e500290ad2",
+      "tableNumber" : 55,
+      "title" : "Alahady XXIII manaraka ny Trinite"
+    },
+    {
+      "cycle" : 2,
       "date" : "2026-10-25",
       "facebookHash" : "3682b0e0632a5bfa91911543711e950ac6e96cea2c102de196e59620677f463e",
       "facebookSchema" : 1,
@@ -77,5 +88,5 @@
     }
   ],
   "schema" : 1,
-  "updatedAt" : "2026-10-31T16:34:44Z"
+  "updatedAt" : "2026-11-07T18:27:10Z"
 }
