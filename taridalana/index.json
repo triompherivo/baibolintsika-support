@@ -2,6 +2,17 @@
   "documents" : [
     {
       "cycle" : 2,
+      "date" : "2026-11-15",
+      "facebookHash" : "6b49bba430e6660f51a08c100a3a4d0429da53ecd6005bcf9d5325c85c0248ae",
+      "facebookSchema" : 1,
+      "filename" : "alah24manartrinite_2.txt",
+      "id" : "2026-11-15-alah24manartrinite-2",
+      "sourceHash" : "0e1c94f15a643625c5ea79f04efe7fe952552979f06cf6461921b17c499e82ca",
+      "tableNumber" : 56,
+      "title" : "Alahady XXIV manaraka ny Trinite"
+    },
+    {
+      "cycle" : 2,
       "date" : "2026-11-08",
       "facebookHash" : "0e98e0e1b043d4ace3288bd2f221fdf7b9a6836ee6dd758d391c2929e28f6288",
       "facebookSchema" : 1,
@@ -88,5 +99,5 @@
     }
   ],
   "schema" : 1,
-  "updatedAt" : "2026-11-07T18:27:10Z"
+  "updatedAt" : "2026-11-14T21:37:40Z"
 }
