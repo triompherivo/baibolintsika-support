@@ -6,3 +6,17 @@
 @media(max-width:380px){.wrap{width:calc(100% - 32px)}.brand{font-size:16px}.nav{gap:10px}.nav-download{font-size:9px;padding:9px 10px}.hero h1{font-size:40px}.hero-actions{gap:14px}.hero .button{font-size:10px;padding:13px 15px}.text-link{font-size:9px}.hero-art{height:325px}.hero-window-app{top:172px}.hero-window-yachad{top:62px}.product-text,.product-verse .product-text{padding-inline:21px}.product h2,.product-yachad h2{font-size:38px}.store-button,.product-yachad .store-button{min-width:125px;gap:7px;padding:9px}.store-button strong{font-size:10px}.store-button small{font-size:6px}.store-icon{width:19px;height:19px}.product-verse .product-visual{min-height:470px}.product-visual{min-height:350px}.product-yachad .product-visual{min-height:310px}.tablet-frame{top:68px}.small-screen{top:195px}.study-labels{bottom:54px}.mission h2{font-size:35px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
 @media print{.site-header,.hero-art,.hero-bottom,.product-visual,.download-picker,.mission-orb,.nav-download,.menu-toggle,.back-top{display:none!important}body,.hero,.product,.mission,.site-footer,.download-section{background:white!important;color:#17223b!important}.wrap{width:100%}.hero-grid,.product{display:block;min-height:0}.hero{padding-top:0}.hero-grid,.universe,.products,.mission-inner,.download-section{padding-block:20px}.product{break-inside:avoid;border:1px solid #ccc;margin-top:20px}.product-text,.product-verse .product-text{padding:20px}.product-description,.feature-list,.hero-description,.platform-note,.mission p:not(.eyebrow){color:#3a465f!important}.download-panel[hidden]{display:flex}.hero h1{font-size:42px}.product h2,.section-heading h2{font-size:30px}.store-button,.browser-stores a{border-color:#aaa}.store-button small,.browser-stores small{color:#555}.store-buttons{display:flex}.hero-verse{display:none}.product-kicker{color:#555}.download-panel{break-inside:avoid}.product em,.hero h1 em,.mission h2 em{color:#4f6386}}
+
+@media (min-width: 701px) {
+  .download-panel[data-panel="verse"]:not([hidden]) {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: stretch;
+  }
+  .download-panel[data-panel="verse"] .download-intro {
+    grid-column: 1 / -1;
+  }
+  .download-panel[data-panel="verse"] .download-link {
+    min-width: 0;
+  }
+}
